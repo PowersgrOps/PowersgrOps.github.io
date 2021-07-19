@@ -1,10 +1,8 @@
 ---
 layout: page
-title:
+title: About me!
 permalink: /about/
 ---
-
-# Who are you?
 
 ![](./images/programmer.gif)
 
