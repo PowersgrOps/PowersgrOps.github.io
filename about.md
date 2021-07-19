@@ -4,7 +4,7 @@ title: About Me!
 permalink: /about/
 ---
 
-![](./images/programer.gif)
+![](./images/programmer.gif)
 
 Welcome/Velkomið! I'm Greg 🧔; a simple fellow obsessed with code (mainly PowerShell 🤗🥰😋) and automating anything and everything!
 
