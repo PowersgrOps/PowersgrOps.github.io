@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me!
 permalink: /about/
 ---
-
-# About Me
 
 ![](https://github.com/PowersgrOps/PowersgrOps.github.io/blob/main/images/programer.gif)
 
