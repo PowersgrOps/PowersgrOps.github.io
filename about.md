@@ -26,7 +26,7 @@ $aboutMe = @(
 )
 ```
 
-## Why am I here?
+# Why am I here?
 
 Good question! Well, hopefully great minds think alike and you landed at my Blog's front door whilst browsing the web and thinking...  
 * I could really use some nifty new PowerShell scripts and tips to hopefully make my life and the lives of those I care about a little easier.  
@@ -41,6 +41,6 @@ if (Get-Content .\any\ofthe\aforementionedStatements.md) {
 }
 ```
 
-## Say Hello!
+# Say Hello!
 
 [powersgr.ops@gmail.com](mailto:email@domain.com)
