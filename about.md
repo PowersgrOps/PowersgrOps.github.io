@@ -27,7 +27,7 @@ $aboutMe = @(
 ## Why am I here?
 
 Good question! Well, hopefully great minds think alike and you landed at my Blog's front door whilst browsing the web and thinking...  
-    * I could really use some nifty new PowerShell scripts and tips to hopefully make my life and the lives of those I care about a little easier.  
+    + I could really use some nifty new PowerShell scripts and tips to hopefully make my life and the lives of those I care about a little easier.  
     * A kick ass braised sausages and gravy recipe...  
     * I think it may be time to incorporate some automation into your ~~current~~ antiquated infrastructure stacks?  
 
