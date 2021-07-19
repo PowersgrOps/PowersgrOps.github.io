@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-<img src="https://cdn.dribbble.com/users/14374/screenshots/3147608/programer.gif" alt="Alt Text" style="width:800px;float:left"/>
+<img src="https://cdn.dribbble.com/users/14374/screenshots/3147608/programer.gif">
 
 Welcome/Velkomið! I'm Greg 🧔; a simple fellow obsessed with code (mainly PowerShell 🤗🥰😋) and automating anything and everything!
 
