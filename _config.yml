@@ -9,7 +9,7 @@ name: PowersgrOps Git Blog
 description: Plundering and pillaging code since 800 A.D.
 
 # URL of your avatar or profile picture: (you could use your GitHub profile picture!)
-avatar: https://raw.githubusercontent.com/PowersgrOps/PowersgrOps.github.io/main/images/viking-char1.jpeg
+avatar: https://raw.githubusercontent.com/PowersgrOps/PowersgrOps.github.io/main/images/viking-char1.jpg
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: PowersgrOps
   instagram:
-  linkedin: https://www.linkedin.com/in/gregpowers-sysops/
+  linkedin: gregpowers-sysops
   pinterest:
   rss: # Type anything here for a working RSS icon
   twitter:
