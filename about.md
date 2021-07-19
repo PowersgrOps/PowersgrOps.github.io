@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Me!
+title:
 permalink: /about/
 ---
 
-## Who are you?
+# Who are you?
 
 ![](./images/programmer.gif)
 
@@ -26,7 +26,7 @@ $aboutMe = @(
 )
 ```
 
-## Why are you here?
+## Why am I here?
 
 Good question! Well, hopefully great minds think alike and you landed at my Blog's front door whilst browsing the web and thinking...  
 * I could really use some nifty new PowerShell scripts and tips to hopefully make my life and the lives of those I care about a little easier.  
