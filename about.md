@@ -4,12 +4,24 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# About Me
 
-### More Information
+<img src="https://cdn.dribbble.com/users/14374/screenshots/3147608/programer.gif" alt="Alt Text" style="width:800px;float:left"/>
 
-A place to include any other types of information that you'd like to include about yourself.
+Welcome/Velkomið! I'm Greg 🧔; a simple fellow obsessed with code (mainly PowerShell 🤗🥰😋) and automating anything and everything!
 
-### Contact me
+```powershell
+$aboutMe = @(
 
-[email@domain.com](mailto:email@domain.com)
+  'Senior Systems/DevOps Engineer',
+
+  'Automation and PowerShell enthusiast',
+
+  'Fantasy/Norse Lore geek'
+
+)
+```
+
+### Say Hello!
+
+[powersgr.ops@gmail.com](mailto:email@domain.com)
