@@ -4,7 +4,7 @@ title: About Me!
 permalink: /about/
 ---
 
-![](https://raw.githubusercontent.com/PowersgrOps/PowersgrOps.github.io/blob/main/images/programer.gif)
+![](./images/programer.gif)
 
 Welcome/Velkomið! I'm Greg 🧔; a simple fellow obsessed with code (mainly PowerShell 🤗🥰😋) and automating anything and everything!
 
