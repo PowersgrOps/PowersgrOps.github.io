@@ -1,6 +1,6 @@
 
 .highlight {
-  background-color: #cccccc;
+  background-color: #efefef;
   padding: 7px 7px 7px 10px;
   border: 1px solid #ddd;
   -moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
@@ -11,7 +11,7 @@
 }
 
 code {
-  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
+  font-family:Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 }
 
 .highlight .lineno { padding-right: 24px; color: lighten(#333332,50);}
