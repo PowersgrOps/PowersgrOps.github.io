@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 <p align="center"><img src ="https://raw.githubusercontent.com/PowersgrOps/PowersgrOps.github.io/main/images/programmer.gif"></p>
-<p align="center"><sub>Thanks to Alex Kunchevsky for the GIF above he created and calls, **Programmer Thomas**. While I don't currently code in Javascript, know very little C# and do not traditionally work on a Mac... The resemblence is almost uncanny and I just love the GIF! You can find this GIF and more of Alex's work over at  https://dribbble.com/kunchevsky.</sub></p>
 
 <br><br>
 
