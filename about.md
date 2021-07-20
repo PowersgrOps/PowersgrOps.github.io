@@ -48,6 +48,6 @@ Good question! Well, hopefully great minds think alike and you landed on my blog
 
 Well, you're in luck friend! Moving forward, my goal is to continue developing this blog by putting together various posts detailing the answers to the questions above and much more!  
 
-I can't thank you enough for being here and please make sure to reach out if you have any questions/concerns, maybe some topics you'd like to see covered, or just to say hello!  
+I can't thank you enough for being here and please make sure to reach out if you have any questions/concerns or just to say hello!  
 
 ![](./images/johnwooden.jpg)
