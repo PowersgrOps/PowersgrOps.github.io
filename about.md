@@ -44,11 +44,3 @@ Good question! Well, hopefully great minds think alike and you landed on my blog
 * I could really use some nifty new PowerShell logic to hopefully make my life and the lives of those I care about a little easier.  
 * A kick-ass braised sausages and onion gravy recipe...  
 * It may be time to incorporate some automation into my ~~current~~ antiquated infrastructure stacks?  
-
-
-# Say Hello!
-
-Feel free to email with any questions/concerns or just to say hello! 👋  
-* [powersgr.ops@gmail.com](mailto:email@domain.com)  
-
-Check out the footer of this blog on any page for other ways to connect! 
