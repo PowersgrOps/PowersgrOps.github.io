@@ -12,15 +12,17 @@ Welcome/Velkomið! I'm Greg... 🧔
 
 ```powershell
 $aboutMe = @(
+  'Husband and Father'
 
   'Senior Systems/DevOps Engineer',
 
-  'Automation and PowerShell enthusiast',
+  'Automation and PowerShell Enthusiast',
 
-  'Fantasy/Norse Lore geek',
+  'DevOps Practitioner'
 
-  'Pub food and a dark lager or brown ale will do'
+  'Fantasy/Norse Lore Fanatic',
 
+  'Foodie (Pub Foods w/ Dark Lager or Brown Ale)'
 )
 ```
 
