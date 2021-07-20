@@ -1,3 +1,8 @@
+---
+layout: post
+title: Syntax Highlight Testing
+---
+
 ```powershell
 # What will PowerShell syntax highlighting look like?
 
