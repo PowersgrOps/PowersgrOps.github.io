@@ -8,8 +8,6 @@ permalink: /about/
 
 Welcome/Velkomið! I'm Greg... 🧔
 
-I'm obsessed with code (mainly PowerShell 🤗🥰😋) and automating anything and everything!
-
 ```powershell
 $aboutMe = @(
 
@@ -19,10 +17,17 @@ $aboutMe = @(
 
   'Fantasy/Norse Lore geek',
 
-  'Foodie (Pub food and a dark lager or brown ale will do!)'
+  'Pub food and a dark lager or brown ale will do'
 
 )
 ```
+
+I am currently a Senior Systems Engineer in Massachusetts for one of the biggest video game developers on the East Coast. My day-to-day includes a balance of monitoring and maintaining our various infrastructure stacks as well as always looking for ways to improve and build upon them. Outside of work, I like to make the most of my time by spending it with my wife and family. Our two little ones make sure we are never bored! Other than that, my pastimes include:
+* Food! I love all types of food, but Pub food and a good beer remain supreme. Cooking has rapidly become one of my main hobbies over the past couple of years.
+* Watching the UFC and simultaneously trying to win DraftKings tournaments. I have even built a DraftKings UFC lineup generator! In PowerShell of course...
+* Gaming! Most of my virtual time is spent on the continent of Tamriel, in the popular MMO, The Elder Scrolls Online.
+* And most recently, creating and developing this blog!
+
 
 # Why am I here?
 
