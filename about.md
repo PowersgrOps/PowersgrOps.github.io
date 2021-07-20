@@ -20,7 +20,7 @@ $aboutMe = @(
 
   'Automation and PowerShell Enthusiast',
 
-  'DevOps Practitioner'
+  'DevOps Practitioner',
 
   'Fantasy/Norse Lore Fanatic',
 
