@@ -10,6 +10,8 @@ permalink: /about/
 
 Welcome/Velkomið! I'm Greg... 🧔
 
+<br>
+
 ```powershell
 $aboutMe = @(
   'Husband and Father'
@@ -25,6 +27,8 @@ $aboutMe = @(
   'Foodie (Pub Foods w/ Dark Lager or Brown Ale)'
 )
 ```
+
+<br>
 
 I am currently a Senior Systems/DevOps Engineer living outside of Boston, Massachusetts for one of the biggest video game developers on the East Coast. My day-to-day includes a balance of monitoring and maintaining our various infrastructure stacks as well as always looking for ways to improve and build upon them. As is it, this means that a good portion of my time is spent developing, building, and testing potential solutions and improvements. And while my time in IT has not been the stuff of legend, I have spent the last 5 years or so learning and developing myself in the areas of automation for both On-premises and Cloud platforms, Infrastructure as Code (IaC), Continuous Integration/Continuous Delivery, and adopting DevOps practices. I have learned much along my journey thus far and I owe a good portion of that knowledge gained to those who have generously volunteered their time to develop the illuminative and thoughtful documentation that has helped bring me to this point in my life and career. I only hope to continue to learn and grow and share my experiences with you! And the goal of developing this blog is a testament to just that...
 
