@@ -4,7 +4,7 @@ title: About me!
 permalink: /about/
 ---
 
-<p align="center"><img src ="./images/programmer.gif" class="center"></p>
+<p align="center"><img src ="https://github.com/PowersgrOps/PowersgrOps.github.io/blob/main/images/programmer.gif" class="center"></p>
 <p align="center"><sub>Thanks to Alex Kunchevsky for the GIF above he created and calls, *Programmer Thomas*. While I don't currently code in Javascript, know very little C# and do not traditionally work on a Mac... The resemblence is almost uncanny and I just love the GIF! You can find this GIF and more of Alex's work over at  https://dribbble.com/kunchevsky.</sub></p>
 
 <br><br>
