@@ -42,5 +42,12 @@ Other than that, my pastimes include:
 
 Good question! Well, hopefully great minds think alike and you landed on my blog's front door whilst browsing the web and thinking...  
 * I could really use some nifty new PowerShell logic to hopefully make my life and the lives of those I care about a little easier.  
-* A kick-ass braised sausages and onion gravy recipe...  
-* It may be time to incorporate some automation into my ~~current~~ antiquated infrastructure stacks?  
+* I'd love a beer-braised sausages and onion gravy recipe! 🤤  
+* It may be time to incorporate some automation development and testing into my ~~current~~ antiquated infrastructure stacks?  
+* How do I develop PowerShell modules? And if so, how can I incorpate DevOps practices in said module development with testing and continuous integration?  
+
+Well, you're in luck friend! Moving forward, my goal is to continue developing this blog by putting together various posts detailing the answers to the questions above and much more!  
+
+I can't thank you enough for being here and please make sure to reach out if you have any questions/concerns, maybe some topics you'd like to see covered, or just to say hello!  
+
+![](./images/johnwooden.jpg)
