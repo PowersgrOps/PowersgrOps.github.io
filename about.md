@@ -29,7 +29,7 @@ I am currently a Senior Systems/DevOps Engineer living outside of Boston, Massac
 Outside of work, I like to make the most of my time by spending it with my family. I am the lucky husband to a wonderful wife and proud father of our two boys. Everything I have become over the years, I owe to them. They are my "**why**" that continues to encourage me to better myself professionally and as a father and husband. I love you all more than you will ever know.
 
 Other than that, my pastimes include:
-* **Food!** <br>
+* **Food!**  
     - I love all types of food, but Pub food and a good beer remain supreme. Cooking has rapidly become one of my main hobbies over the past couple of years.  
 * **Sports!**  
     - More specifically, combat sports. And even more specifically, the _UFC_. This coupled with attempting to put together a winning _DraftKings_ lineup is how I spend most Saturday nights.  
