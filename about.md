@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 ![](./images/programmer.gif)
+<font size="1"><p style="test-align: center;">Thanks to Alex Kunchevsky for the GIF above he created and calls, *Programmer Thomas*. While I don't currently code in Javascript, know very little C# and do not traditionally work on a Mac... The resemblence is almost uncanny and I just love the GIF! You can find this GIF and more of Alex's work over at  https://dribbble.com/kunchevsky</p></font>
 
 Welcome/Velkomið! I'm Greg... 🧔
 
