@@ -52,4 +52,4 @@ Well, you are in luck friend! Moving forward, my goal is to continue developing 
 
 I cannot thank you enough for being here and please make sure to reach out if you have any questions/concerns or just to say hello!  
 
-![](./images/johnwooden.jpg)
+<img src="https://raw.githubusercontent.com/PowersgrOps/PowersgrOps.github.io/main/images/johnwooden.jpg">
