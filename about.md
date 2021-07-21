@@ -40,7 +40,7 @@ Other than that, my pastimes include:
 * **Sports!**  
     - More specifically, combat sports. And even more specifically, the _UFC_. This coupled with attempting to put together a winning _DraftKings_ lineup is how I spend most Saturday nights.  
 * **Gaming!**  
-    - I like a variety of games, but admittedly most of my virtual time is spent on the continent of Tamriel, in the popular MMO, _The Elder Scrolls Online_. When I am not laying waste to cultist evangelists, various ghouls and goblins or the undead, I'm attempting to theorycraft characters abilities and gear stats in the hopes of coming up with some new, game changing build for the ESO community. I will let you know when that happens... 🤨  
+    - I like a variety of games, but admittedly most of my virtual time is spent on the continent of Tamriel, in the popular MMO, _The Elder Scrolls Online_. When I am not laying waste to cultist evangelists, various ghouls and goblins or the undead, I'm attempting to theorycraft character abilities and gear stats in the hopes of coming up with some new, game changing build for the ESO community. I will let you know when that happens... 🤨  
 * **Reading/Audible!**  
     - Recently, _Audible_ has changed my life! Some of my favorites would include _The Hobbit_, _Neil Gaiman's Norse Mythology_, anything by _Joe Abercrombie_ or narrated by _Steven Pacey_.  
 * And most recently, creating and developing this blog!
